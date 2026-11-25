@@ -1,39 +1,42 @@
-# Hi there, I'm Georgi Tanchev 🇧🇬 👋
+# Hi, I'm Georgi Tanchev 🇧🇬
 
-![Your Professional Headshot or Avatar](https://tanchev.net/wp-content/uploads/2022/02/a07171ae5335dae3c604bbb267997951.png.webp)
+<img src="https://tanchev.net/images/georgi-portrait.png" alt="Georgi Tanchev, web developer from Plovdiv, Bulgaria" width="180" align="right" />
 
-I am a web developer who likes creating Graphical User Interfaces that are optimized, clean and modern as well as intuitive. You are welcome to explore my GitHub page as well as my [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/tanchevWebGroup)  and [![Facebook](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://instagram.com/georgittanchev) where I sometimes upload custom designs and projects as well as articles about web programming.
+Web developer and SEO specialist from Plovdiv, Bulgaria. I build websites, online stores and WordPress themes and plugins, and I run the Linux servers they live on. Since 2018 I've worked directly with businesses in Bulgaria and abroad, without an agency in between.
 
-## 🛠️ My Favorite Tools
+**Website:** [tanchev.net](https://tanchev.net/en/) · **About me:** [tanchev.net/en/about](https://tanchev.net/en/about/)
 
-### 👨‍💻 Programming Languages
+## What I've published
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+- **[Ledgerly](https://wordpress.org/themes/ledgerly/)**: a free WordPress block theme for accountants and consultants, in the official wordpress.org theme directory.
+- **[Slotara Booking](https://tanchev.net/slotara/)**: an online booking plugin for WordPress (the free version is in review at wordpress.org).
+- More block themes for salons and clinics are coming to wordpress.org, one at a time.
+- My WordPress.org profile: [profiles.wordpress.org/tanchev](https://profiles.wordpress.org/tanchev/)
 
-### 💻 Software and Tools
-
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-000?&logo=adobexd)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-
-### 🛠️ Additional Tools
+## What I work with
 
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![LiteSpeed](https://img.shields.io/badge/-OpenLiteSpeed-000?&logo=litespeed)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
-## 📫 How to Reach Me
+Day to day: WordPress block themes and plugins, Astro sites, technical SEO, CyberPanel/OpenLiteSpeed servers, and AI tooling (RAG, MCP servers) for real business use.
 
+## Get in touch
+
+[![Website](https://img.shields.io/badge/-tanchev.net-000?&logo=googlechrome)](https://tanchev.net/en/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/georgi-tanchev-881410153/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/tanchevWebGroup)
-[![Facebook](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://instagram.com/georgittanchev)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/georgittanchev/)
 
-## 📈 My GitHub Stats
+Email: info@tanchev.net
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgittanchev&show_icons=true)
+## GitHub stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=georgittanchev)
-
+![GitHub stats for georgittanchev](https://github-readme-stats.vercel.app/api?username=georgittanchev&show_icons=true)
