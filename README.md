@@ -1,7 +1,5 @@
 # Hi, I'm Georgi Tanchev 🇧🇬
 
-<img src="https://tanchev.net/images/georgi-portrait.png" alt="Georgi Tanchev, web developer from Plovdiv, Bulgaria" width="180" align="right" />
-
 Web developer and SEO specialist from Plovdiv, Bulgaria. I build websites, online stores and WordPress themes and plugins, and I run the Linux servers they live on. Since 2018 I've worked directly with businesses in Bulgaria and abroad, without an agency in between.
 
 **Website:** [tanchev.net](https://tanchev.net/en/) · **About me:** [tanchev.net/en/about](https://tanchev.net/en/about/)
